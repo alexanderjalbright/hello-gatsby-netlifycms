@@ -9,7 +9,7 @@ It should have been
 ```jsx
 import React from 'react'
 
-export default App = () => {
+export const App = () => {
     return <div>Test</div>
 }
 ```
