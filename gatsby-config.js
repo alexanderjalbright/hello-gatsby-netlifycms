@@ -1,14 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Coding Journey`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Alex Albright`,
+      summary: `Js on my tree. You git like me.`,
+      quote:
+        '"A foolish consistency is the hobgoblin of feeble minds" ~Ralph Waldo Emerson',
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      github: `alexanderjalbright`,
     },
   },
   plugins: [
