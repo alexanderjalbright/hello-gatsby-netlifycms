@@ -1,11 +1,11 @@
 import React from "react"
-import { Link } from "gatsby"
+import Nav from "../components/nav"
 
 export default function App() {
   return (
     <div>
-      Hello!
-      <Link to="/blog">Blog</Link>
+      <Nav />
+      <h1>Portfolio</h1>
     </div>
   )
 }
